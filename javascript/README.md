@@ -1,1 +1,3 @@
-# This folder contains JavaScript Codecademy projects.
+# JavaScript
+
+This folder contains JavaScript Codecademy projects.
