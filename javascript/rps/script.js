@@ -47,4 +47,5 @@ const playGame = (userInput) => {
   console.log(determineWinner(userChoice,computerChoice))
 }
 
-playGame('bomb')
+// game example
+playGame('rock')
