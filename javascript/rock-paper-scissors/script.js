@@ -46,6 +46,3 @@ const playGame = (userInput) => {
   const computerChoice = getComputerChoice();
   console.log(determineWinner(userChoice,computerChoice))
 }
-
-// game example
-playGame('rock')
