@@ -1,3 +1,5 @@
+# Random Color Picker
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 It generates a random color when the 'Refresh' button is pressed.
