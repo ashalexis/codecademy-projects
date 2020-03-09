@@ -17,7 +17,7 @@ Your team wants you to simulate P. aequor‘s high rate of mutation (change in i
 
 To simulate a mutation, in pAequorFactory()‘s returned object, add the method **.mutate()**.
 
-.mutate() is responsible for randomly selecting a base in the object’s dna property and changing the current base to a different base. Then .mutate() will return the object’s dna.
+.mutate() is responsible for randomly selecting a base in the object’s dna property and changing the current base to a different base. Then .mutate() will return the object’s DNA.
 
 For example, if the randomly selected base is the 1st base and it is 'A', the base must be changed to 'T', 'C', or 'G'. But it cannot be 'A' again.
 
@@ -26,11 +26,11 @@ Your research team wants to be able to compare the DNA sequences of different P.
 
 .compareDNA() has one parameter, another pAequor object.
 
-The behavior of .compareDNA() is to compare the current pAequor‘s .dna with the passed in pAequor‘s .dna and compute how many bases are identical and in the same locations. .compareDNA() does not return anything, but prints a message that states the percentage of DNA the two objects have in common — use the .specimenNum to identify which pAequor objects are being compared.
+The behavior of .compareDNA() is to compare the current pAequor‘s DNA with the passed in pAequor‘s DNA and compute how many bases are identical and in the same locations. .compareDNA() does not return anything, but prints a message that states the percentage of DNA the two objects have in common.
 
 ### Checking Survival
 P. aequor have a likelier chance of survival if their DNA is made up of at least 60% 'C' or 'G' bases.
 
 In the returned object of pAequorFactory(), add another method **.willLikelySurvive()**.
 
-.willLikelySurvive() returns true if the object’s .dna array contains at least 60% 'C' or 'G' bases. Otherwise, .willLikelySurvive() returns false.
+.willLikelySurvive() returns true if the object’s DNA array contains at least 60% 'C' or 'G' bases. Otherwise, .willLikelySurvive() returns false.
