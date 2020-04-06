@@ -5,6 +5,7 @@ This is a collection started in 2020 for my Codecademy projects.
 ## HTML & CSS
 * [Arts and Crafts](https://github.com/ashalexis/codecademy-projects/tree/master/html-css/arts-and-crafts)
 * [NYC Blog](https://github.com/ashalexis/codecademy-projects/tree/master/html-css/nyc-blog)
+* [Common Cents Party Band Site](https://github.com/ashalexis/codecademy-projects/tree/master/html-css/common-cents-party-band-site)
 
 ## JavaScript
 * [Mysterious Organisms](https://github.com/ashalexis/codecademy-projects/tree/master/javascript/mysterious_organisms)
