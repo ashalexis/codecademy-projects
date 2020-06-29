@@ -14,6 +14,7 @@ This is a collection started in 2020 for my Codecademy projects.
 ## JavaScript
 * [Mysterious Organisms](https://github.com/ashalexis/codecademy-projects/tree/master/javascript/mysterious_organisms)
 * [Rock, Paper, Scissors](https://github.com/ashalexis/codecademy-projects/tree/master/javascript/rock-paper-scissors)
+* [Wanderlust](https://github.com/ashalexis/codecademy-projects/tree/master/javascript/wanderlust)
 
 ### Responsive Websites
 * [Number Guesser](https://github.com/ashalexis/codecademy-projects/tree/master/javascript/number-guesser)
