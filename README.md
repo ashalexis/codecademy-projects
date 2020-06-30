@@ -24,5 +24,8 @@ This is a collection started in 2020 for my Codecademy projects.
 ## React
 *  [Random Colour Picker](https://github.com/ashalexis/codecademy-projects/tree/master/react/random-color-picker-app)
 
+## Vue
+* [Ticketbox](https://github.com/ashalexis/codecademy-projects/tree/master/vue/ticketbox)
+
 # Python
 * [The Boredless Tourist](https://github.com/ashalexis/codecademy-projects/tree/master/python/the-boredless-tourist)
