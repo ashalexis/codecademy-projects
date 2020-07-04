@@ -10,6 +10,7 @@ This is a collection started in 2020 for my Codecademy projects.
 * [Cupful Cafe](https://github.com/ashalexis/codecademy-projects/tree/master/html-css/cupful-cafe)
 * [NYC Blog](https://github.com/ashalexis/codecademy-projects/tree/master/html-css/nyc-blog)
 * [Space Webpage](https://github.com/ashalexis/codecademy-projects/tree/master/html-css/space-webpage)
+* [Parallax Banner](https://github.com/ashalexis/codecademy-projects/tree/master/html-css/parallax-banner)
 
 ## JavaScript
 * [Mysterious Organisms](https://github.com/ashalexis/codecademy-projects/tree/master/javascript/mysterious_organisms)
