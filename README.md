@@ -21,9 +21,6 @@ This is a collection started in 2020 for my Codecademy projects.
 * [Chore Door (game)](https://github.com/ashalexis/codecademy-projects/tree/master/javascript/chore-door-game)
 * [Piano Keys](https://github.com/ashalexis/codecademy-projects/tree/master/javascript/piano-keys)
 
-## React
-*  [Random Colour Picker](https://github.com/ashalexis/codecademy-projects/tree/master/react/random-color-picker-app)
-
 ## Vue
 * [Ticketbox](https://github.com/ashalexis/codecademy-projects/tree/master/vue/ticketbox)
 
